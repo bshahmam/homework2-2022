@@ -23,11 +23,11 @@ h2{
     text-shadow: 2px 4px #808080;
 }
 
-p{
+/* p{
     font-size: 24px;
     padding-left: 15px;
     padding-bottom: 15px;
-}
+} */
 
 /*Style the images*/
 img{
@@ -44,6 +44,7 @@ div{
     padding: 20px;
     border: 3px solid #ffffff;
 }
+
 
 .intro{
     border-radius: 15px;
@@ -77,9 +78,11 @@ div{
 }
 
 .blue p{
-    
+
     padding-left: 0px;
 }
+
+
 
 .yellow{
     background-color: #ffff00;
@@ -101,7 +104,7 @@ div{
 }
 
 .green{
-    background-color: #00D800;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-right: 10px solid #ffffff;
@@ -111,17 +114,21 @@ div{
 }
 
 .green p{
-    
+
     padding-left: 0px;
 }
-
-
 
 
 span{
     text-decoration: underline;
     text-transform: uppercase;
     text-shadow: none;
+}
+
+p{
+    font-size: 24px;
+    padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 footer{
